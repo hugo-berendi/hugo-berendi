@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hugo.berendi@kamachi.dev**
 
-- ⚡ Fun fact **I am a infp-t**
+- ⚡ Fun fact **I am an infp-t**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
