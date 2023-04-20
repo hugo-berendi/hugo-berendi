@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Fumiko](https://fumiko.kamachi.dev/)
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://www.kamachi.dev/](https://www.kamachi.dev/)
 
-- 💬 Ask me about **discordjs, harmony**
+- 💬 Ask me about **discordjs, pycord, javascript/typescript, python**
 
 - 📫 How to reach me **hugo.berendi@kamachi.dev**
 
