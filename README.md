@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo-berendi&label=Profile%20views&color=0e75b6&style=flat" alt="hugo-berendi" /> </p>
 
-- 🔭 I’m currently working on [Yasuna](https://github.com/hugo-berendi)
+- 🔭 I’m currently working on [my dotfiles](https://github.com/hugo-berendi/dotfiles)
 
 - 🌱 I’m currently learning **Linux**
 
