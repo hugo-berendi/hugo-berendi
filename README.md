@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Yasuna](https://github.com/hugo-berendi)
 
-- 🌱 I’m currently learning **pycord**
+- 🌱 I’m currently learning **Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hugo-berendi?tab=repositories](https://github.com/hugo-berendi?tab=repositories)
 
-- 💬 Ask me about **Python, TypeScript, SQL**
+- 💬 Ask me about **Python, TypeScript, SQL, Shell Script**
 
 - 📫 How to reach me **hugo.berendi@outlook.de**
 
