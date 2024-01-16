@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hugo-berendi?tab=repositories](https://github.com/hugo-berendi?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/hugo-berendi?tab=repositories)
 
 - 💬 Ask me about **Python, TypeScript, SQL, Shell Script**
 
