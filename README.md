@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hugo Berendi</h1>
 <h3 align="center">A full-stack developer and student from Germany</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hugo-berendi&theme=rose_pine" alt="readme-stats" /> </p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/hugo-berendi/hugo-berendi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo-berendi&label=Profile%20views&color=0e75b6&style=flat" alt="hugo-berendi" /> </p>
 
