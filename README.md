@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo-berendi&label=Profile%20views&color=0e75b6&style=flat" alt="hugo-berendi" /> </p>
 
-- 🔭 I’m currently working on [aiko](https://github.com/hugo-berendi/aiko)
+- 🔭 I’m currently working on [AliAs](https://github.com/hugo-berendi/AliAs) and [the website for DPSG Stamm Phoenix](https://gitHub.com/welles/stamm-phoenix)
 
 - 🌱 I’m currently learning **Rust, Linux**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, TypeScript, SQL, Linux**
 
-- 📫 How to reach me **hugo.berendi@outlook.de**
+- 📫 How to reach me **contact.cubbyhole394@passinbox.com**
 
 - ⚡ Fun fact **I like Gnu/Linux**
 
