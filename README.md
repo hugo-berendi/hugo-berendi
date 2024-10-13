@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-berendi&layout=compact&theme=rose_pine" alt="top langs" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo-berendi&label=Profile%20views&color=0e75b6&style=flat" alt="hugo-berendi" /> </p>
-[![wakatime](https://wakatime.com/badge/user/c7c18b5b-34ad-4e01-be79-fbf9b8bb7e8c.svg)](https://wakatime.com/@c7c18b5b-34ad-4e01-be79-fbf9b8bb7e8c)
+<a href="https://wakatime.com/@c7c18b5b-34ad-4e01-be79-fbf9b8bb7e8c"><img src="https://wakatime.com/badge/user/c7c18b5b-34ad-4e01-be79-fbf9b8bb7e8c.svg" alt="Total time coded since Jan 23 2022" /></a>
 
 - 🔭 I’m currently working on [AliAs](https://github.com/hugo-berendi/AliAs) and [the website for DPSG Stamm Phoenix](https://gitHub.com/welles/stamm-phoenix)
 
