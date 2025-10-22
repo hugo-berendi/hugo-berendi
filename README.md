@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hugo Berendi</h1>
 
 ### 👨‍💻 About Me
-```javascript
-const hugoBerendi = {
-    pronouns: "He" | "Him",
-    code: ["Python", "C#", "TypeScript", "Lua", "Nix"],
-    askMeAbout: ["Web Development", "Game Development", "Automation"],
-    currentlyLearning: "SAP CAP",
-    funFact: "I <3 NixOS!"
+```nix
+about-me.hugo-berendi = {
+  pronouns = [ "He" "Him" ];
+  code = [ "Python" "C#" "TypeScript" "Lua" "Nix" ];
+  ask-me-about = [ "Web Development" "Game Development" "Automation" ];
+  currently-learning = "SAP CAP";
+  fun-fact = "I <3 NixOS!";
 };
+
 ```
 
 ### 🌟 GitHub Analytics
